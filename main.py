@@ -6,7 +6,7 @@ app = FastAPI()  # ← Idi top lo undali
 
 students = [
     {"id": 1, "name": "Ankitha", "role": "Docker Queen"},
-    {"id": 2, "name": "Sravan", "role": "Backend Dev"}
+    {"id": 2, "name": "Sravan", "role": "Backend Dev"},
     {"id": 3, "name": "laddu", "role": "chinnoda"}
 ]
 
